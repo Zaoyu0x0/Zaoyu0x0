@@ -1,7 +1,6 @@
 ### Hi there 👋
 # 0x0
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaoyu0x0&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaoyu0x0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Zaoyu0x0/Zaoyu0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
